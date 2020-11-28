@@ -19,7 +19,10 @@ highly-available distributed systems running in both on-premises and cloud envir
 [<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/azure-1.png" />](https://azure.com)
 [<img align="left" alt="" width="22px" src="https://img.icons8.com/windows/32/000000/digital-ocean.png" />](https://www.digitalocean.com)
 [<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/python.png" />](https://www.python.org)
-[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/golang.png" />](https://golang.org)<br />
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/golang.png" />](https://golang.org)
+
+
+<br />
 
 
 [<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/kubernetes.png" />](https://kubernetes.io)
@@ -29,7 +32,10 @@ highly-available distributed systems running in both on-premises and cloud envir
 [<img align="left" alt="" width="19px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/vagrant.svg" />](https://www.vagrantup.com)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/ansible.png" />](https://www.ansible.com)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/prometheus.png" />](https://prometheus.io)
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/grafana.png" />](https://grafana.com)<br />
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/grafana.png" />](https://grafana.com)
+
+
+<br />
 
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/elk.svg" />](https://www.elastic.co)
