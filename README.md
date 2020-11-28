@@ -20,8 +20,6 @@ highly-available distributed systems running in both on-premises and cloud envir
 [<img align="left" alt="" width="22px" src="https://img.icons8.com/windows/32/000000/digital-ocean.png" />](https://www.digitalocean.com)
 [<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/python.png" />](https://www.python.org)
 [<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/golang.png" />](https://golang.org)
-
-
 <br />
 
 
@@ -33,8 +31,6 @@ highly-available distributed systems running in both on-premises and cloud envir
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/ansible.png" />](https://www.ansible.com)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/prometheus.png" />](https://prometheus.io)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/grafana.png" />](https://grafana.com)
-
-
 <br />
 
 
@@ -46,8 +42,6 @@ highly-available distributed systems running in both on-premises and cloud envir
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/redis.svg" />](https://redis.io)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/mongodb.svg" />](https://www.mongodb.com)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/postgresql.svg" />](https://www.postgresql.org)
-
-
 <br />
 
 
