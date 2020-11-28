@@ -19,17 +19,19 @@ highly-available distributed systems running in both on-premises and cloud envir
 [<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/azure-1.png" />](https://azure.com)
 [<img align="left" alt="" width="22px" src="https://img.icons8.com/windows/32/000000/digital-ocean.png" />](https://www.digitalocean.com)
 [<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/python.png" />](https://www.python.org)
-[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/golang.png" />](https://golang.org)
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/golang.png" />](https://golang.org)<br />
+
+
 [<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/kubernetes.png" />](https://kubernetes.io)
 [<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/docker.png" />](https://www.docker.com)
 [<img align="left" alt="" width="22px" src="https://github.com/exesse/exesse/blob/main/icons/tf.png?raw=true" />](https://www.terraform.io)
 [<img align="left" alt="" width="19px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/vault.svg" />](https://www.vaultproject.io)
-[<img align="left" alt="" width="19px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/vagrant.svg" />](https://www.vagrantup.com)<br />
-
-
+[<img align="left" alt="" width="19px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/vagrant.svg" />](https://www.vagrantup.com)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/ansible.png" />](https://www.ansible.com)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/prometheus.png" />](https://prometheus.io)
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/grafana.png" />](https://grafana.com)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/grafana.png" />](https://grafana.com)<br />
+
+
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/elk.svg" />](https://www.elastic.co)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/logstash.svg" />](https://www.elastic.co/logstash)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/kibana.svg" />](https://www.elastic.co/kibana)
@@ -44,8 +46,8 @@ highly-available distributed systems running in both on-premises and cloud envir
 
 
 ### Connect with me
-[<img align="left" alt="exesse" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://exesse.org)
-[<img align="left" alt="exesse | Say Hello" width="22px" src="https://simpleicons.org/icons/gmail.svg" />](mailto:hi@exesse.org)
-[<img align="left" alt="exesse | Medium" width="22px" src="https://simpleicons.org/icons/medium.svg" />](https://medium.com/@exesse)
-[<img align="left" alt="exesse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/exesse/)
-[<img align="left" alt="exese | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/exese)
+[<img align="left" alt="exesse" width="26px" src="https://img.icons8.com/nolan/64/geography.png" />](http://exesse.org)
+[<img align="left" alt="exesse | Say Hello" width="26px" src="https://img.icons8.com/nolan/64/gmail.png" />](mailto:hi@exesse.org)
+[<img align="left" alt="exesse | Medium" width="26px" src="https://img.icons8.com/nolan/64/medium-new.png" />](https://medium.com/@exesse)
+[<img align="left" alt="exesse | LinkedIn" width="26px" src="https://img.icons8.com/nolan/64/linkedin.png" />](https://www.linkedin.com/in/exesse/)
+[<img align="left" alt="exese | Twitter" width="26px" src="https://img.icons8.com/nolan/64/twitter.png" />](https://twitter.com/exese)
