@@ -25,6 +25,8 @@ highly-available distributed systems running in both on-premises and cloud envir
 [<img align="left" alt="" width="22px" src="https://github.com/exesse/exesse/blob/main/icons/tf.png?raw=true" />](tf)
 [<img align="left" alt="" width="19px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/vault.svg" />](vault)
 [<img align="left" alt="" width="19px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/vagrant.svg" />](vagrant)<br />
+
+
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/ansible.png" />](ansible)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/prometheus.png" />](prometheus)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/grafana.png" />](grafana)
@@ -36,7 +38,10 @@ highly-available distributed systems running in both on-premises and cloud envir
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/redis.svg" />](redis)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/mongodb.svg" />](mongodb)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/postgresql.svg" />](postgresql)
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/mariadb.svg" />](mariadb)<br />
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/mariadb.svg" />](mariadb)
+
+
+<br />
 
 
 ### Connect with me
