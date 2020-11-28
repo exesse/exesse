@@ -38,7 +38,6 @@ highly-available distributed systems running in both on-premises and cloud envir
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/redis.svg" />](https://redis.io)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/mongodb.svg" />](https://www.mongodb.com)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/postgresql.svg" />](https://www.postgresql.org)
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/mariadb.svg" />](https://mariadb.org)
 
 
 <br />
