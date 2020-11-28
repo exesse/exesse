@@ -40,8 +40,6 @@ highly-available distributed systems running in both on-premises and cloud envir
 
 
 <br />
-
-
 ### Connect with me
 [<img align="left" alt="exesse" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://exesse.org)
 [<img align="left" alt="exesse | Say Hello" width="22px" src="https://simpleicons.org/icons/gmail.svg" />](mailto:hi@exesse.org)
