@@ -33,14 +33,12 @@ highly-available distributed systems running in both on-premises and cloud envir
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/kibana.svg" />](kibana)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/nginx.png" />](nginx)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/ceph.png" />](ceph)
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/redis.svg" />](redis)
 <br />
 
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/redis.svg" />](redis)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/mongodb.svg" />](mongodb)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/postgresql.svg" />](postgresql)
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/mariadb.svg" />](mariadb)
-
-
 
 <br />
 
