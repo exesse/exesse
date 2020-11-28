@@ -3,42 +3,42 @@
 I am experienced engineer with background in architecting, deploying, automating and maintaining in complex, 
 highly-available distributed systems running in both on-premises and cloud environments. 
 
-- 🖥️ I'm currently working at [Bruker Corp](https://www.bruker.com). 
+- 🖥️ I'm currently working at [Bruker](https://www.bruker.com). 
 - 🔭 I'm interested in new techologies, DevOps methodology, infrastructure as a code, monitoring and automation.
 - 🌱 I'm curently learning C language. 
 - ⚡ My super power is to learn and apply new things fast. 
-- 🎽 In my free time I host an amateur [running club](https://tenxfifty.com).
+- 🎽 In my free time I host an [amateur running club](https://tenxfifty.com).
 - 💬 Aks me about linux, clouds, what the hell "DevOps" is or just anything on my stack!
 
 
 ### My stack
-[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/64/000000/linux.png" />](linux)
-[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/microsoft.png" />](windows)
-[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" />](gcp)
-[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />](aws)
-[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/azure-1.png" />](azure)
-[<img align="left" alt="" width="22px" src="https://img.icons8.com/windows/32/000000/digital-ocean.png" />](digitalocean)
-[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/python.png" />](python)
-[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/golang.png" />](go)
-[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/kubernetes.png" />](k8s)
-[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/docker.png" />](docker)
-[<img align="left" alt="" width="22px" src="https://github.com/exesse/exesse/blob/main/icons/tf.png?raw=true" />](tf)
-[<img align="left" alt="" width="19px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/vault.svg" />](vault)
-[<img align="left" alt="" width="19px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/vagrant.svg" />](vagrant)<br />
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/64/000000/linux.png" />](https://www.linux.org)
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/microsoft.png" />](https://www.microsoft.com/en-us/windows-server)
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" />](https://cloud.google.com)
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />](https://aws.amazon.com)
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/azure-1.png" />](https://azure.com)
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/windows/32/000000/digital-ocean.png" />](https://www.digitalocean.com)
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/python.png" />](https://www.python.org)
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/golang.png" />](https://golang.org)
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/kubernetes.png" />](https://kubernetes.io)
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/48/000000/docker.png" />](https://www.docker.com)
+[<img align="left" alt="" width="22px" src="https://github.com/exesse/exesse/blob/main/icons/tf.png?raw=true" />](https://www.terraform.io)
+[<img align="left" alt="" width="19px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/vault.svg" />](https://www.vaultproject.io)
+[<img align="left" alt="" width="19px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/vagrant.svg" />](https://www.vagrantup.com)<br />
 
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/ansible.png" />](ansible)
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/prometheus.png" />](prometheus)
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/grafana.png" />](grafana)
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/elk.svg" />](elastic)
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/logstash.svg" />](logstash)
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/kibana.svg" />](kibana)
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/nginx.png" />](nginx)
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/ceph.png" />](ceph)
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/redis.svg" />](redis)
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/mongodb.svg" />](mongodb)
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/postgresql.svg" />](postgresql)
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/mariadb.svg" />](mariadb)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/ansible.png" />](https://www.ansible.com)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/prometheus.png" />](https://prometheus.io)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/grafana.png" />](https://grafana.com)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/elk.svg" />](https://www.elastic.co)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/logstash.svg" />](https://www.elastic.co/logstash)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/kibana.svg" />](https://www.elastic.co/kibana)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/nginx.png" />](https://www.nginx.com)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/ceph.png" />](https://ceph.io)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/redis.svg" />](https://redis.io)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/mongodb.svg" />](https://www.mongodb.com)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/postgresql.svg" />](https://www.postgresql.org)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/exesse/exesse/main/icons/mariadb.svg" />](https://mariadb.org)
 
 
 <br />
