@@ -3,7 +3,7 @@
 I am experienced engineer with background in architecting, deploying, automating and maintaining in complex, 
 highly-available distributed systems running in both on-premises and cloud environments. 
 
-- 🖥️ I'm currently working at [Bruker](https://www.bruker.com). 
+- 🖥️ I'm currently working at [Google](https://about.google/). 
 - 🔭 I'm interested in new techologies, DevOps methodology, infrastructure as a code, monitoring and automation.
 - 🌱 I'm curently learning C language. 
 - ⚡ My super power is to learn and apply new things fast. 
