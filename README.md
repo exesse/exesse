@@ -5,7 +5,7 @@ highly-available distributed systems running in both on-premises and cloud envir
 
 - 🖥️ I'm currently working at [Google](https://about.google/). 
 - 🔭 I'm interested in new techologies, DevOps methodology, infrastructure as a code, monitoring and automation.
-- 🌱 I'm curently mastering Starlank language. 
+- 🌱 I'm curently mastering [Algorithms and Data Structures](https://github.com/exesse/leetcode). 
 - ⚡ My super power is to learn and apply new things fast. 
 - 🎽 In my free time I host an [amateur running club](https://tenxfifty.com).
 - 💬 Aks me about linux, clouds, what the hell "DevOps" is or just anything on my stack!
